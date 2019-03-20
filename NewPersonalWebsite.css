@@ -8,11 +8,15 @@ table, th, td {
     border-width: 1px;
     border-style: solid;
     border-color: black;
-    border-image:initial;
+    border-image: initial;
 }
 body {
     background-color: rgb(248, 157, 115);
     text-align: center;
     align-content: center;
     margin: auto;
+}
+.booklist {
+    align-content: center;
+    text-align: left;
 }
