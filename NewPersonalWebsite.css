@@ -17,9 +17,9 @@ body {
     margin: auto;
 }
 #booklist {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
+    padding-right: 100%;
+    padding-left: 0%;
+    text-align: center;
     border-width: 1px;
     border-style: hidden;
 }
