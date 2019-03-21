@@ -20,4 +20,6 @@ body {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    border-width: 1px;
+    border-style: hidden;
 }
