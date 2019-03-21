@@ -16,12 +16,16 @@ table, th, td {
 body {
     background-color: rgb(248, 157, 115);
     text-align: center;
-    align-content: center;
     margin: auto;
 }
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
 #booklist {
-    margin: center;
-    content-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
     border-width: 1px;
     border-style: hidden;
 }
